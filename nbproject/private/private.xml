@@ -5,6 +5,7 @@
         <group>
             <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SecurityDemo/src/java/filters/AuthenticationFilter.java</file>
             <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SecurityDemo/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SecurityDemo/src/java/services/AccountService.java</file>
             <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SecurityDemo/src/java/servlets/AdminServlet.java</file>
             <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SecurityDemo/web/WEB-INF/notes.jsp</file>
             <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/SecurityDemo/src/java/filters/AdminFilter.java</file>

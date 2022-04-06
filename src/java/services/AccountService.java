@@ -30,4 +30,18 @@ public class AccountService {
         }
         return null;
     }
+    
+    public User forgotPassword(String email){
+        UserDB userDB = new UserDB();
+        
+        try {
+            User user = userDB.get(email);
+            if (user != null) {
+                return user;
+            }
+        } catch (Exception e) {
+        }
+        
+        return null;
+    }
 }
